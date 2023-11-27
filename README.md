@@ -14,4 +14,4 @@ Plataforma de streaming ScreenMatch, desenvolvida em Java.
 - [Java](https://docs.oracle.com/en/java/) <img loading="lazy" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20" height="20"/>
 
 #
-<p align = center> <b> Obrigada por visitar este repositório!</b> 😄🎥 </p>
+<!--<p align = center> <b> Obrigada por visitar este repositório!</b> 😄🎥 </p>-->
